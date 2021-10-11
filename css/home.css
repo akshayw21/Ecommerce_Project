@@ -1,0 +1,43 @@
+h1{
+    text-align:center ;
+    color: red;
+}
+
+h4{
+    text-align: center;
+    font-size: 18px;
+}
+
+.nav{
+    background-color: red;
+    color:white;
+    text-align: center;
+}
+
+.nav:hover{
+    background-color:green;
+    color:white;
+}
+
+.pro{
+    margin-top:25px;
+    color:green;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.img{
+    position:relative;
+    top:0px;
+    left:0px;
+    width:220px;
+    height:250px;
+}
+
+.map{
+    margin:20px;
+
+}
+
+

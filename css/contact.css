@@ -1,0 +1,76 @@
+h1{
+    text-align:center ;
+    color: red;
+}
+
+h4{
+    text-align: center;
+    font-size: 18px;
+}
+
+.nav{
+    background-color: red;
+    color:white;
+    text-align: center;
+}
+
+.nav:hover{
+    background-color:green;
+    color:white;
+}
+
+.form{
+    width: 500px;
+    height:800px;
+    position:relative;
+    top:47px;
+    left:198px;
+    
+}
+
+.button{
+    width:150px;
+    height:30px;
+    background-color: gray;
+    color:white;
+    position:relative;
+    top:0px;
+    left:160px;
+}
+
+.a{
+    width:50px;
+    height:50px;
+}
+
+.foot1{
+    color:white;
+    position:relative;
+    top:7px ;
+    left:-478px ;
+}
+
+.foot2{
+    color:white;
+    position:relative;
+    top:-794px ;
+    left:189px ;
+}
+
+.foot3{
+    color: white;
+    position:relative;
+    top:-809px ;
+    left:236px ;
+}
+
+footer{
+    width:940px;
+    height:160px;
+    background-color: red;
+    position:relative;
+    top:761px ;
+    left:11px ;
+}
+
+}

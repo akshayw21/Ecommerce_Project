@@ -1,0 +1,75 @@
+/*home css*/
+
+
+h1,h3{
+    text-align: center;
+    text-transform: uppercase;
+    color:#07216B;
+}
+
+
+.menu-item{
+    text-align:center;
+    text-transform: uppercase;
+    background-color:red;
+    color:#ffffff;
+    padding:10px 0;
+    cursor:pointer;
+    border-radius: 20px;
+    
+}  
+
+.menu-item:hover{
+    background-color:yellow;
+    color:white;
+    text-decoration: none;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+#banner{
+    
+    margin-top: 10px;
+}
+
+#courses h3{
+    text-align:center;
+    text-transform: uppercase;
+    border-bottom:4px solid #FFBC00;
+    padding-bottom:5px;
+    
+    
+}
+
+footer{
+    background-color:#07216B;
+    padding:10px 0;
+    color:#ffffff;
+}
+
+footer a{
+    color:#ffffff;
+}
+
+#about{
+    width:940px;
+    height:500px;
+}
+
+
+.midcol{
+    text-align:center;
+}
+h5{
+    color:white;
+    text-align: left;
+}
+p{
+    border-style: groove;
+    background-color:rgb(134, 53, 53);
+    color:white;
+
+}

@@ -1,0 +1,70 @@
+h1,h3{
+    text-align: center;
+    text-transform: uppercase;
+    color:#07216B;
+}
+
+
+.menu-item{
+    text-align:center;
+    text-transform: uppercase;
+    background-color:red;
+    color:#ffffff;
+    padding:10px 0;
+    cursor:pointer;
+    border-radius: 20px;
+}
+
+.menu-item:hover{
+    background-color:yellow;
+    color:white;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+footer{
+    background-color:#07216B;
+    padding:10px 0;
+    color:#ffffff;
+}
+
+footer a{
+    color:#ffffff;
+}
+
+#about{
+    width:940px;
+    height:500px;
+}
+
+
+.midcol{
+    text-align:center;
+}
+h5{
+    color:white;
+    text-align: left;
+}
+
+
+.form{
+    
+    position:relative;
+    left:240px;
+
+}
+
+#form1{
+ 
+    margin-top:25px;
+}
+
+.button{
+    position: relative;
+    top:6px;
+    left:156px;
+}
